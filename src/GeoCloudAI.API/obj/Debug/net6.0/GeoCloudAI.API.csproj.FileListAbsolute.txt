@@ -1,0 +1,223 @@
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.exe
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.deps.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.runtimeconfig.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.AssemblyReference.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.AssemblyInfoInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.AssemblyInfo.cs
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.CoreCompileInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\scopedcss\bundle\GeoCloudAI.API.styles.css
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.CopyComplete
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\refint\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.genruntimeconfig.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\obj\Debug\net6.0\ref\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.exe
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.deps.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.runtimeconfig.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.AssemblyReference.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.AssemblyInfoInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.AssemblyInfo.cs
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.CoreCompileInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\scopedcss\bundle\GeoCloudAI.API.styles.css
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.CopyComplete
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\refint\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.genruntimeconfig.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\obj\Debug\net6.0\ref\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Application.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Domain.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Persistence.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Application.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Domain.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Persistence.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloud\back\src\GeoCloudAI.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Application.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Domain.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Persistence.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Application.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Domain.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudAI\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Persistence.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.exe
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.deps.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.runtimeconfig.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Application.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Domain.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Persistence.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Application.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Domain.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Persistence.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.AssemblyReference.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.AssemblyInfoInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.AssemblyInfo.cs
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.CoreCompileInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\scopedcss\bundle\GeoCloudAI.API.styles.css
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.CopyComplete
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\refint\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.genruntimeconfig.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudNew\back\src\GeoCloudAI.API\obj\Debug\net6.0\ref\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.exe
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.deps.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.runtimeconfig.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Application.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Domain.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Persistence.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Application.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Domain.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Persistence.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.AssemblyReference.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.AssemblyInfoInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.AssemblyInfo.cs
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.CoreCompileInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\scopedcss\bundle\GeoCloudAI.API.styles.css
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\refint\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.genruntimeconfig.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\ref\GeoCloudAI.API.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Dapper.Mapper.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.CopyComplete
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\appsettings.Development.json
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\appsettings.json
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.exe
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.deps.json
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.runtimeconfig.json
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.API.pdb
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\AutoMapper.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Dapper.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Dapper.Contrib.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Dapper.Mapper.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Application.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Domain.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Persistence.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Application.pdb
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Domain.pdb
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\bin\Debug\net6.0\GeoCloudAI.Persistence.pdb
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.AssemblyReference.cache
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.AssemblyInfoInputs.cache
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.AssemblyInfo.cs
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.CoreCompileInputs.cache
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.MvcApplicationPartsAssemblyInfo.cs
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\scopedcss\bundle\GeoCloudAI.API.styles.css
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.csproj.CopyComplete
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\refint\GeoCloudAI.API.dll
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.pdb
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\GeoCloudAI.API.genruntimeconfig.cache
+D:\GeoCloudAI\GeoCloudBack\back\src\GeoCloudAI.API\obj\Debug\net6.0\ref\GeoCloudAI.API.dll

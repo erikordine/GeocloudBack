@@ -1,0 +1,15 @@
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\bin\Release\net6.0\GeoCloudAI.Persistence.deps.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\bin\Release\net6.0\GeoCloudAI.Persistence.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\bin\Release\net6.0\GeoCloudAI.Persistence.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\bin\Release\net6.0\GeoCloudAI.Domain.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\bin\Release\net6.0\GeoCloudAI.Domain.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\obj\Release\net6.0\GeoCloudAI.Persistence.csproj.AssemblyReference.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\obj\Release\net6.0\GeoCloudAI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\obj\Release\net6.0\GeoCloudAI.Persistence.AssemblyInfoInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\obj\Release\net6.0\GeoCloudAI.Persistence.AssemblyInfo.cs
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\obj\Release\net6.0\GeoCloudAI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\obj\Release\net6.0\GeoCloudAI.Persistence.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\obj\Release\net6.0\refint\GeoCloudAI.Persistence.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\obj\Release\net6.0\GeoCloudAI.Persistence.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\obj\Release\net6.0\ref\GeoCloudAI.Persistence.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Persistence\obj\Release\net6.0\GeoCloudAI.Persistence.csproj.CopyComplete

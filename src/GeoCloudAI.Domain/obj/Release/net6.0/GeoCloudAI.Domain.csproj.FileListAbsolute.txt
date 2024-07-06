@@ -1,0 +1,12 @@
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Domain\bin\Release\net6.0\GeoCloudAI.Domain.deps.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Domain\bin\Release\net6.0\GeoCloudAI.Domain.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Domain\bin\Release\net6.0\GeoCloudAI.Domain.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Domain\obj\Release\net6.0\GeoCloudAI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Domain\obj\Release\net6.0\GeoCloudAI.Domain.AssemblyInfoInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Domain\obj\Release\net6.0\GeoCloudAI.Domain.AssemblyInfo.cs
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Domain\obj\Release\net6.0\GeoCloudAI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Domain\obj\Release\net6.0\GeoCloudAI.Domain.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Domain\obj\Release\net6.0\refint\GeoCloudAI.Domain.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Domain\obj\Release\net6.0\GeoCloudAI.Domain.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Domain\obj\Release\net6.0\ref\GeoCloudAI.Domain.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Domain\obj\Release\net6.0\GeoCloudAI.Domain.csproj.AssemblyReference.cache

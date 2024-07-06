@@ -1,0 +1,17 @@
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\bin\Release\net6.0\GeoCloudAI.Application.deps.json
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\bin\Release\net6.0\GeoCloudAI.Application.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\bin\Release\net6.0\GeoCloudAI.Application.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\bin\Release\net6.0\GeoCloudAI.Domain.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\bin\Release\net6.0\GeoCloudAI.Persistence.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\bin\Release\net6.0\GeoCloudAI.Domain.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\bin\Release\net6.0\GeoCloudAI.Persistence.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\obj\Release\net6.0\GeoCloudAI.Application.csproj.AssemblyReference.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\obj\Release\net6.0\GeoCloudAI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\obj\Release\net6.0\GeoCloudAI.Application.AssemblyInfoInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\obj\Release\net6.0\GeoCloudAI.Application.AssemblyInfo.cs
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\obj\Release\net6.0\GeoCloudAI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\obj\Release\net6.0\GeoCloudAI.Application.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\obj\Release\net6.0\refint\GeoCloudAI.Application.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\obj\Release\net6.0\GeoCloudAI.Application.pdb
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\obj\Release\net6.0\ref\GeoCloudAI.Application.dll
+C:\Users\Essencis Labs\Desktop\DotNet\_Projetos\GeoCloudBack\back\src\GeoCloudAI.Application\obj\Release\net6.0\GeoCloudAI.Application.csproj.CopyComplete
