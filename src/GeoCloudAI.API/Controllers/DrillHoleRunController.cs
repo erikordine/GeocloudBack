@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace GeoCloudAI.API.Controllers
 {
-    // [Authorize]
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class DrillHoleRunController : ControllerBase
