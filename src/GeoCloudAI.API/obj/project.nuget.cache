@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ByqePb0/jEc=",
+  "dgSpecHash": "8gz1iK/ZyjrE6rsEdNAYck5Zw+qaJDhKoX6BGZm5pOkfhu4GNTVHD85jfHGXI3qjCBzYVqe3Yau74tFOqnGSYA==",
   "success": true,
   "projectFilePath": "D:\\GeoCloudAI\\GeoCloudBack\\back\\src\\GeoCloudAI.API\\GeoCloudAI.API.csproj",
   "expectedPackageFiles": [
@@ -128,11 +128,7 @@
     "C:\\Users\\erikg\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\erikg\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\erikg\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\erikg\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\erikg\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
-    "C:\\Users\\erikg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
-    "C:\\Users\\erikg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
-    "C:\\Users\\erikg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+    "C:\\Users\\erikg\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -27,6 +27,7 @@ namespace GeoCloudAI.Application.Helpers
             CreateMap<EmployeeRole,          EmployeeRoleDto>().ReverseMap();
             CreateMap<Functionality,         FunctionalityDto>().ReverseMap();
             CreateMap<FunctionalityType,     FunctionalityTypeDto>().ReverseMap();
+            CreateMap<LithologyGroup,        LithologyGroupDto>().ReverseMap();
             CreateMap<MetalGroup,            MetalGroupDto>().ReverseMap();
             CreateMap<MetalGroupSub,         MetalGroupSubDto>().ReverseMap();
             CreateMap<Mine,                  MineDto>().ReverseMap();
