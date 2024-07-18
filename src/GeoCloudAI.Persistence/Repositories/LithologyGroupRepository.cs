@@ -48,7 +48,7 @@ namespace GeoCloudAI.Persistence.Repositories
                 if (lithologyGroup.AccountId == 0) { return 0; }
                 string command = @"UPDATE LITHOLOGYGROUP SET 
                                     accountId = @accountId,
-                                    name      = @name,
+                                    name      = @name
                                     WHERE id  = @id";
                 var result = await conn.ExecuteAsync(sql: command, param: lithologyGroup);
                 return result;
