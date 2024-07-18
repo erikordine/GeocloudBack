@@ -124,6 +124,9 @@ namespace GeoCloudAI.API
             services.AddScoped<IDrillHoleService, DrillHoleService>();
             services.AddScoped<IDrillHoleRepository, DrillHoleRepository>();
 
+            services.AddScoped<IDrillHoleRunService, DrillHoleRunService>();
+            services.AddScoped<IDrillHoleRunRepository, DrillHoleRunRepository>();
+
             services.AddScoped<IDrillHoleTypeService, DrillHoleTypeService>();
             services.AddScoped<IDrillHoleTypeRepository, DrillHoleTypeRepository>();
 
