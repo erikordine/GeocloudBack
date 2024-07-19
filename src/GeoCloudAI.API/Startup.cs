@@ -148,6 +148,9 @@ namespace GeoCloudAI.API
             services.AddScoped<ILithologyGroupService, LithologyGroupService>();
             services.AddScoped<ILithologyGroupRepository, LithologyGroupRepository>();
 
+            services.AddScoped<ILithologyGroupSubService, LithologyGroupSubService>();
+            services.AddScoped<ILithologyGroupSubRepository, LithologyGroupSubRepository>();
+
             services.AddScoped<IMetalGroupService, MetalGroupService>();
             services.AddScoped<IMetalGroupRepository, MetalGroupRepository>();
 
