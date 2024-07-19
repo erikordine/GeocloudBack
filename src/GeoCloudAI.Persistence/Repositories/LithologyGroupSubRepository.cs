@@ -136,8 +136,8 @@ namespace GeoCloudAI.Persistence.Repositories
                                 INNER JOIN Account           A   ON    G.AccountId  = A.id 
                                 WHERE A.id= @accountId "; 
                 if (term != ""){
-                     query = query + "AND (O.name LIKE '%" + term + "%' " +
-                                     "OR   D.Name LIKE '%" + term + "%') ";
+                     query = query + "AND (LS.name LIKE '%" + term + "%' " +
+                                     "OR   G.Name LIKE '%" + term + "%') ";
                 }
                 if (orderField != ""){
                     query = query + "ORDER BY " + orderField;
