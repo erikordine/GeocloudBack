@@ -30,6 +30,7 @@ namespace GeoCloudAI.Application.Helpers
             CreateMap<LithologyGroup,        LithologyGroupDto>().ReverseMap();
             CreateMap<LithologyGroupSub,     LithologyGroupSubDto>().ReverseMap();
             CreateMap<Lithology,             LithologyDto>().ReverseMap();
+            CreateMap<LithologyMethod,       LithologyMethodDto>().ReverseMap();
             CreateMap<MetalGroup,            MetalGroupDto>().ReverseMap();
             CreateMap<MetalGroupSub,         MetalGroupSubDto>().ReverseMap();
             CreateMap<Mine,                  MineDto>().ReverseMap();

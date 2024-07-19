@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeoCloudAI.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b48f2c582b2cecf3aae285a602b26e2cc107fc8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00cb3d2e306891a7f8d7d33f2279b0db982f0fc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeoCloudAI.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeoCloudAI.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
