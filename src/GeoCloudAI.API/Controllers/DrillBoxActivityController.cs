@@ -10,44 +10,47 @@ namespace GeoCloudAI.API.Controllers
     // [Authorize]
     [ApiController]
     [Route("api/[controller]")]
-    public class LithologyController : ControllerBase
+    public class DrillBoxActivityController : ControllerBase
     {  
-        private readonly ILithologyService _lithologyService;
+        private readonly IDrillBoxActivityService _drillBoxActivityService;
 
-        public LithologyController(ILithologyService lithologyService)
+        private readonly IWebHostEnvironment _hostEnvironment;
+
+        public DrillBoxActivityController(IDrillBoxActivityService drillBoxActivityService, IWebHostEnvironment hostEnvironment)
         {
-            _lithologyService = lithologyService;
+            _hostEnvironment = hostEnvironment;
+            _drillBoxActivityService = drillBoxActivityService;
         }
-    
+
         [HttpPost]
         [Route("add")]
-        public async Task<IActionResult> Add(LithologyDto lithologyDto)
+        public async Task<IActionResult> Add(DrillBoxActivityDto drillBoxActivityDto)
         {
             try
             {
-                var result = await _lithologyService.Add(lithologyDto);
+                var result = await _drillBoxActivityService.Add(drillBoxActivityDto);
                 return Ok(result);
             }
             catch (Exception ex)
             {
                 return this.StatusCode(StatusCodes.Status500InternalServerError, 
-                   $"Error when trying to add lithology. Error: {ex.Message}");
+                   $"Error when trying to add drillBoxActivity. Error: {ex.Message}");
             }
         }
 
         [HttpPut]
         [Route("update")]
-        public async Task<IActionResult> Update(LithologyDto lithologyDto)
+        public async Task<IActionResult> Update(DrillBoxActivityDto drillBoxActivityDto)
         {
             try
             {
-                var result = await _lithologyService.Update(lithologyDto);
+                var result = await _drillBoxActivityService.Update(drillBoxActivityDto);
                 return Ok(result);
             }
             catch (Exception ex)
             {
                 return this.StatusCode(StatusCodes.Status500InternalServerError, 
-                   $"Error when trying to update lithology. Error: {ex.Message}");
+                   $"Error when trying to update drillBoxActivity. Error: {ex.Message}");
             }
         }
 
@@ -57,13 +60,13 @@ namespace GeoCloudAI.API.Controllers
         {
             try
             {
-                var result = await _lithologyService.Delete(id);
+                var result = await _drillBoxActivityService.Delete(id);
                 return Ok(result);
             }
             catch (Exception ex)
             {
                 return this.StatusCode(StatusCodes.Status500InternalServerError, 
-                   $"Error when trying to delete lithology. Error: {ex.Message}");
+                   $"Error when trying to delete drillBoxActivity. Error: {ex.Message}");
             }
         }
 
@@ -73,8 +76,8 @@ namespace GeoCloudAI.API.Controllers
         {
             try
             {
-                var result = await _lithologyService.Get(pageParams);
-                if(result == null) return NotFound("No lithologys found");
+                var result = await _drillBoxActivityService.Get(pageParams);
+                if(result == null) return NotFound("No drillBoxActivities found");
 
                 Response.AddPagination(result.TotalCount, result.CurrentPage, result.PageSize, result.TotalPages);
                 
@@ -83,7 +86,7 @@ namespace GeoCloudAI.API.Controllers
             catch (Exception ex)
             {
                 return this.StatusCode(StatusCodes.Status500InternalServerError, 
-                   $"Error when trying to recover lithologys. Error: {ex.Message}");
+                   $"Error when trying to recover drillBoxActivities. Error: {ex.Message}");
             }
         }
 
@@ -93,8 +96,8 @@ namespace GeoCloudAI.API.Controllers
         {
             try
             {
-                var result = await _lithologyService.GetByAccount(accountId, pageParams);
-                if(result == null) return NotFound("No lithologys found");
+                var result = await _drillBoxActivityService.GetByAccount(accountId, pageParams);
+                if(result == null) return NotFound("No drillBoxActivities found");
 
                 Response.AddPagination(result.TotalCount, result.CurrentPage, result.PageSize, result.TotalPages);
                 
@@ -103,18 +106,18 @@ namespace GeoCloudAI.API.Controllers
             catch (Exception ex)
             {
                 return this.StatusCode(StatusCodes.Status500InternalServerError, 
-                   $"Error when trying to recover lithologys. Error: {ex.Message}");
+                   $"Error when trying to recover drillBoxActivities. Error: {ex.Message}");
             }
         }
 
         [HttpGet]
-        [Route("getByLithologyGroupSub")]
-        public async Task<IActionResult> GetByLithologyGroupSub(int groupSubId, [FromQuery]PageParams pageParams)
+        [Route("getByDrillBox")]
+        public async Task<IActionResult> GetByDrillBox(int drillBoxId, [FromQuery]PageParams pageParams)
         {
             try
             {
-                var result = await _lithologyService.GetByLithologyGroupSub(groupSubId, pageParams);
-                if(result == null) return NotFound("No lithologys found");
+                var result = await _drillBoxActivityService.GetByDrillBox(drillBoxId, pageParams);
+                if(result == null) return NotFound("No drillBoxActivities found");
 
                 Response.AddPagination(result.TotalCount, result.CurrentPage, result.PageSize, result.TotalPages);
                 
@@ -123,7 +126,7 @@ namespace GeoCloudAI.API.Controllers
             catch (Exception ex)
             {
                 return this.StatusCode(StatusCodes.Status500InternalServerError, 
-                   $"Error when trying to recover lithologys. Error: {ex.Message}");
+                   $"Error when trying to recover drillBoxActivities. Error: {ex.Message}");
             }
         }
 
@@ -133,14 +136,14 @@ namespace GeoCloudAI.API.Controllers
         {
             try
             {
-                var result = await _lithologyService.GetById(id);
-                if(result == null) return NotFound("No lithology found");
+                var result = await _drillBoxActivityService.GetById(id);
+                if(result == null) return NotFound("No drillBoxActivity found");
                 return Ok(result);
             }
             catch (Exception ex)
             {
                 return this.StatusCode(StatusCodes.Status500InternalServerError, 
-                   $"Error when trying to recover lithology. Error: {ex.Message}");
+                   $"Error when trying to recover drillBoxActivity. Error: {ex.Message}");
             }
         }
 

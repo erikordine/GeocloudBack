@@ -109,6 +109,9 @@ namespace GeoCloudAI.API
             services.AddScoped<IDrillBoxService, DrillBoxService>();
             services.AddScoped<IDrillBoxRepository, DrillBoxRepository>();
 
+            services.AddScoped<IDrillBoxActivityService, DrillBoxActivityService>();
+            services.AddScoped<IDrillBoxActivityRepository, DrillBoxActivityRepository>();
+
             services.AddScoped<IDrillBoxActivityTypeService, DrillBoxActivityTypeService>();
             services.AddScoped<IDrillBoxActivityTypeRepository, DrillBoxActivityTypeRepository>();
 

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNJgE+8A1dA=",
+  "dgSpecHash": "rI5MwyYj8vCOlIqNg2CA5ZOIz+44M8yZGqKvczTQlVd16Ovnk94+jEUCWgmAh27zX6jlxdmK4Qckind92JdkrQ==",
   "success": true,
   "projectFilePath": "D:\\GeoCloudAI\\GeoCloudBack\\back\\src\\GeoCloudAI.Domain\\GeoCloudAI.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\erikg\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
-    "C:\\Users\\erikg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
-    "C:\\Users\\erikg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

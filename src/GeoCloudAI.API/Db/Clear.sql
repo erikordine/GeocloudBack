@@ -1,5 +1,23 @@
 use geocloudai;
 
+delete from lithology where id > 12;
+alter table lithology AUTO_INCREMENT = 12; 
+
+delete from lithologyGroupSub where id > 6;
+alter table lithologyGroupSub AUTO_INCREMENT = 6; 
+
+delete from lithologyGroup where id > 3;
+alter table lithologyGroup AUTO_INCREMENT = 3; 
+
+delete from lithologyMethod where id > 3;
+alter table lithologyMethod AUTO_INCREMENT = 3; 
+
+delete from deviation where id > 5;
+alter table deviation AUTO_INCREMENT = 5;
+
+delete from drillholerun where id > 5;
+alter table drillholerun AUTO_INCREMENT = 5;
+
 delete from drillbox where id > 13;
 alter table drillbox AUTO_INCREMENT = 13;
 
@@ -66,8 +84,8 @@ alter table companyType AUTO_INCREMENT = 5;
 delete from user where id > 3;
 alter table user AUTO_INCREMENT = 3;
 
-delete from profilerole where profileId > 4;
-delete from profilerole where roleId > 5;
+delete from profilerole where id > 5;
+alter table profilerole AUTO_INCREMENT = 5;
 
 delete from role where id > 5;
 alter table role AUTO_INCREMENT = 5;

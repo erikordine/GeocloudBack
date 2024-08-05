@@ -15,6 +15,7 @@ namespace GeoCloudAI.Application.Helpers
             CreateMap<Deposit,               DepositDto>().ReverseMap();
             CreateMap<DepositType,           DepositTypeDto>().ReverseMap();
             CreateMap<DrillBox,              DrillBoxDto>().ReverseMap();
+            CreateMap<DrillBoxActivity,      DrillBoxActivityDto>().ReverseMap();
             CreateMap<DrillBoxStatus,        DrillBoxStatusDto>().ReverseMap();
             CreateMap<DrillBoxType,          DrillBoxTypeDto>().ReverseMap();
             CreateMap<DrillBoxMaterial,      DrillBoxMaterialDto>().ReverseMap();
